@@ -1,0 +1,16 @@
+16cb13948796e66dfd89871fb8218b37 *DESCRIPTION
+33d553f14e5c42e29961ee9c2fff768a *LICENSE
+9993b2cf6d1801c431751604e142f775 *NAMESPACE
+3130dfc1381fe72db4f093fb5c45d705 *NEWS.md
+c6e610b7f50de60a39576969d3f309e6 *R/my_data_googleads.R
+78a684abbc3ddb3b77c9bc40ae8ef736 *R/windsor_fetch_googleAds.R
+35a8eab1e3b94700c85656d73d81c0c9 *README.md
+138c76e1592d8908274e2305daf04d48 *build/vignette.rds
+7183f1c8766ec4b02731814934503f73 *data/my_data_googleads.rda
+be4865fdf2eedf58c1d28ade9060e74d *inst/doc/basics.R
+5bb8ed8abfcabda8b0b5a318fe828ef1 *inst/doc/basics.Rmd
+3f00905a0f368ccb48f1e48cf78e644a *inst/doc/basics.html
+1c52ce28e5560aa26a7f7aaef4ef5097 *man/my_data_googleads.Rd
+8504833087a41d7fa4adabdabb6cda13 *man/windsor_fetch_googleAds.Rd
+5bb8ed8abfcabda8b0b5a318fe828ef1 *vignettes/basics.Rmd
+7183f1c8766ec4b02731814934503f73 *vignettes/my_data_googleads.rda
