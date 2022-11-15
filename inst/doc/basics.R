@@ -9,11 +9,8 @@ load(file = "my_data_googleads.rda")
 ## ---- eval = FALSE------------------------------------------------------------
 #  library(googleadsR)
 #  my_data_googleads <-
-#    windsor_fetch_googleAds(
-#    api_key = "your api key",
-#    date_preset = "last_7d",
-#    fields = c("source", "campaign", "clicks",
-#               "medium", "sessions", "spend")
+#    fetch_googleads(
+#    api_key = "your api key")
 #  )
 
 ## ---- echo = FALSE------------------------------------------------------------

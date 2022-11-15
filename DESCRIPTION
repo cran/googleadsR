@@ -1,7 +1,7 @@
 Type: Package
 Package: googleadsR
-Title: Access to Google Ads via the 'Windsor.ai' API
-Version: 0.1.2
+Title: Access to 'Google Ads' via the 'Windsor.ai' API
+Version: 1.0.0
 Authors@R: 
     c(person(given = "Pablo",
              family = "Sanchez",
@@ -10,7 +10,7 @@ Authors@R:
       person(given = "Windsor.ai",
              role = "cph", 
              email = "admin@windsor.ai"))
-Description: Collect  marketing data from google Ads using the 'Windsor.ai' API <https://windsor.ai/api-fields/>.
+Description: Collect  marketing data from 'Google Ads' using the 'Windsor.ai' API <https://windsor.ai/api-fields/>.
 License: MIT + file LICENSE
 Depends: R (>= 3.5.0)
 Imports: jsonlite (>= 1.7.2)
@@ -21,9 +21,9 @@ RoxygenNote: 7.2.1
 Suggests: knitr, rmarkdown, dplyr, ggplot2, tidyr, curl
 LazyData: true
 NeedsCompilation: no
-Packaged: 2022-10-11 16:06:42 UTC; pablo
+Packaged: 2022-11-14 17:49:59 UTC; pablo
 Author: Pablo Sanchez [aut, cre],
   Windsor.ai [cph]
 Maintainer: Pablo Sanchez <pablosama@outlook.es>
 Repository: CRAN
-Date/Publication: 2022-10-17 11:52:36 UTC
+Date/Publication: 2022-11-15 23:50:02 UTC
